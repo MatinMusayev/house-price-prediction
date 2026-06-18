@@ -33,7 +33,7 @@ house-price-prediction/
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction
+git clone https://github.com/MatinMusayev/house-price-prediction
 cd house-price-prediction
 pip install -r requirements.txt
 
